@@ -24,7 +24,7 @@ void Draw()
         glVertex2d(i,-i);
     }
 
-    double m=0, n=0, r=128; // as my ID is 182-15-2105, r = 2105 % 157 = 64;
+    double m=0, n=0, r=128;
     double p0=1-r;
     double pk=p0;
     double pk2;
